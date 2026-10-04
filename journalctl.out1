@@ -1,0 +1,16 @@
+окт 04 18:31:19 mephi-2026.domain.local systemd[1]: Starting nginx.service - The nginx HTTP and reverse proxy server...
+░░ Subject: Начинается запуск юнита nginx.service
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ Начат процесс запуска юнита nginx.service.
+окт 04 18:31:19 mephi-2026.domain.local nginx[999]: nginx: the configuration file /etc/nginx/nginx.conf syntax is ok
+окт 04 18:31:19 mephi-2026.domain.local nginx[999]: nginx: configuration file /etc/nginx/nginx.conf test is successful
+окт 04 18:31:19 mephi-2026.domain.local systemd[1]: Started nginx.service - The nginx HTTP and reverse proxy server.
+░░ Subject: Запуск юнита nginx.service завершен
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ Процесс запуска юнита nginx.service был завершен.
+░░ 
+░░ Результат: done.

@@ -1,0 +1,937 @@
+Последняя проверка окончания срока действия метаданных: 0:19:08 назад, Вс 04 окт 2026 17:54:21.
+Зависимости разрешены.
+==============================================================================================
+ Пакет                                            Архитектура
+                                                          Версия                Репозиторий
+                                                                                        Размер
+==============================================================================================
+Обновление:
+ acl                                              x86_64  2.4.0-1.red80         updates   75 k
+ amd-gpu-firmware                                 noarch  20260810-1.red80      updates   16 M
+ amd-ucode-firmware                               noarch  20260810-1.red80      updates  512 k
+ atheros-firmware                                 noarch  20260810-1.red80      updates   44 M
+ audit                                            x86_64  3.1.3-5.red80         updates  256 k
+ audit-libs                                       x86_64  3.1.3-5.red80         updates  121 k
+ brcmfmac-firmware                                noarch  20260810-1.red80      updates  6.2 M
+ c-ares                                           x86_64  1.34.6-1.red80        updates  132 k
+ cirrus-audio-firmware                            noarch  20260810-1.red80      updates  711 k
+ curl                                             x86_64  8.21.0-1.red80        updates  302 k
+ expat                                            x86_64  2.8.4-1.red80         updates  129 k
+ file                                             x86_64  5.46-3.red80          updates   47 k
+ file-libs                                        x86_64  5.46-3.red80          updates  847 k
+ gawk                                             x86_64  5.3.2-1.red80         updates  1.1 M
+ gdisk                                            x86_64  1.0.10-1.red80        updates  257 k
+ glib2                                            x86_64  2.84.4-3.red80        updates  3.0 M
+ grub2-common                                     noarch  1:2.12-8.red80        updates  1.0 M
+ grub2-pc                                         x86_64  1:2.12-8.red80        updates  9.0 k
+ grub2-pc-modules                                 noarch  1:2.12-8.red80        updates  1.0 M
+ grub2-tools                                      x86_64  1:2.12-8.red80        updates  1.8 M
+ grub2-tools-minimal                              x86_64  1:2.12-8.red80        updates  615 k
+ hddtemp                                          x86_64  0.3-0.52.beta15.red80 updates   58 k
+ htop                                             x86_64  3.5.2-1.red80         updates  218 k
+ intel-audio-firmware                             noarch  20260810-1.red80      updates  1.3 M
+ intel-gpu-firmware                               noarch  20260810-1.red80      updates  4.6 M
+ libacl                                           x86_64  2.4.0-1.red80         updates   25 k
+ libattr                                          x86_64  2.6.0-1.red80         updates   17 k
+ libbpf                                           x86_64  2:1.7.0-1.red80       updates  196 k
+ libcurl                                          x86_64  8.21.0-1.red80        updates  430 k
+ libibverbs                                       x86_64  2510.0.11-1.red80     updates  304 k
+ libnghttp2                                       x86_64  1.69.0-1.red80        updates  101 k
+ libssh                                           x86_64  0.12.2-1.red80        updates  263 k
+ libssh-config                                    noarch  0.12.2-1.red80        updates  8.1 k
+ libssh2                                          x86_64  1.11.1-2.red80        updates  239 k
+ libuv                                            x86_64  1:1.52.1-1.red80      updates  263 k
+ libxml2                                          x86_64  2.10.4-14.red80       updates  702 k
+ libzstd                                          x86_64  1.5.7-2.red80         updates  355 k
+ linux-firmware                                   noarch  20260810-1.red80      updates   31 M
+ linux-firmware-whence                            noarch  20260810-1.red80      updates   50 k
+ loginfo-cli                                      x86_64  1.5-1.red80           updates  384 k
+ mpfr                                             x86_64  4.2.2-2.red80         updates  652 k
+ mt7xxx-firmware                                  noarch  20260810-1.red80      updates   30 M
+ nvidia-gpu-firmware                              noarch  20260810-1.red80      updates  102 M
+ nxpwireless-firmware                             noarch  20260810-1.red80      updates  1.4 M
+ p11-kit                                          x86_64  0.26.5-1.red80        updates  568 k
+ p11-kit-trust                                    x86_64  0.26.5-1.red80        updates  152 k
+ perl-AutoLoader                                  noarch  5.74-500.red80        updates   20 k
+ perl-B                                           x86_64  1.83-500.red80        updates  180 k
+ perl-Class-Struct                                noarch  0.66-500.red80        updates   21 k
+ perl-DynaLoader                                  x86_64  1.52-500.red80        updates   25 k
+ perl-Errno                                       x86_64  1.36-500.red80        updates   14 k
+ perl-Fcntl                                       x86_64  1.15-500.red80        updates   19 k
+ perl-File-Basename                               noarch  2.85-500.red80        updates   16 k
+ perl-File-Copy                                   noarch  2.39-500.red80        updates   19 k
+ perl-File-Find                                   noarch  1.40-500.red80        updates   24 k
+ perl-File-stat                                   noarch  1.12-500.red80        updates   16 k
+ perl-FileHandle                                  noarch  2.03-500.red80        updates   15 k
+ perl-Getopt-Std                                  noarch  1.13-500.red80        updates   15 k
+ perl-IO                                          x86_64  1.50-500.red80        updates   86 k
+ perl-IPC-Open3                                   noarch  1.22-500.red80        updates   22 k
+ perl-Math-Complex                                noarch  1.59-500.red80        updates   46 k
+ perl-POSIX                                       x86_64  2.03-500.red80        updates   97 k
+ perl-SelectSaver                                 noarch  1.02-500.red80        updates   11 k
+ perl-Socket                                      x86_64  4:2.043-1.red80       updates   56 k
+ perl-Symbol                                      noarch  1.09-500.red80        updates   13 k
+ perl-Sys-Hostname                                x86_64  1.24-500.red80        updates   16 k
+ perl-URI                                         noarch  5.37-1.red80          updates  136 k
+ perl-base                                        noarch  2.27-500.red80        updates   16 k
+ perl-if                                          noarch  0.61.000-500.red80    updates   13 k
+ perl-interpreter                                 x86_64  4:5.36.0-500.red80    updates   73 k
+ perl-libs                                        x86_64  4:5.36.0-500.red80    updates  2.1 M
+ perl-mro                                         x86_64  1.26-500.red80        updates   28 k
+ perl-overload                                    noarch  1.35-500.red80        updates   45 k
+ perl-overloading                                 noarch  0.02-500.red80        updates   12 k
+ perl-subs                                        noarch  1.04-500.red80        updates   11 k
+ perl-vars                                        noarch  1.05-500.red80        updates   13 k
+ postfix                                          x86_64  2:3.11.6-1.red80      updates  1.6 M
+ protobuf-c                                       x86_64  1.4.1-4.red80         updates   38 k
+ python-pip-wheel                                 noarch  25.1.1-8.red80        updates  1.2 M
+ python-setuptools-wheel                          noarch  78.1.1-5.red80        updates  1.1 M
+ python3-rpm                                      x86_64  4.18.2-9.red80        updates   87 k
+ realtek-firmware                                 noarch  20260810-1.red80      updates  3.8 M
+ redos-release                                    noarch  8.0.3-6.red80         updates   28 k
+ redos-release-identity-standard-server-minimal   noarch  8.0.3-6.red80         updates  9.0 k
+ redos-release-minimal                            noarch  8.0.3-6.red80         updates  7.9 k
+ rpm                                              x86_64  4.18.2-9.red80        updates  530 k
+ rpm-build-libs                                   x86_64  4.18.2-9.red80        updates   87 k
+ rpm-libs                                         x86_64  4.18.2-9.red80        updates  314 k
+ rpm-plugin-selinux                               x86_64  4.18.2-9.red80        updates   13 k
+ rpm-sign-libs                                    x86_64  4.18.2-9.red80        updates   18 k
+ selinux-policy                                   noarch  38.33-13.red80        updates  1.8 M
+ selinux-policy-targeted                          noarch  38.33-13.red80        updates  6.5 M
+ sqlite-libs                                      x86_64  3.40.0-9.red80        updates  655 k
+ systemd                                          x86_64  253.30-5.red80        updates  4.4 M
+ systemd-libs                                     x86_64  253.30-5.red80        updates  642 k
+ systemd-oomd-defaults                            noarch  253.30-5.red80        updates  8.0 k
+ systemd-pam                                      x86_64  253.30-5.red80        updates  324 k
+ systemd-resolved                                 x86_64  253.30-5.red80        updates  275 k
+ systemd-udev                                     x86_64  253.30-5.red80        updates  2.1 M
+ tiwilink-firmware                                noarch  20260810-1.red80      updates  2.3 M
+ vim-data                                         noarch  2:9.2.0954-1.red80    updates   14 k
+ vim-minimal                                      x86_64  2:9.2.0954-1.red80    updates  852 k
+ wpa_supplicant                                   x86_64  1:2.11-2.red80        updates  1.7 M
+ xz                                               x86_64  5.2.5-11.red80        updates  236 k
+ xz-libs                                          x86_64  5.2.5-11.red80        updates  100 k
+Установка пакетов группы/модуля:
+ kernel-lt                                        x86_64  6.12.101-1.red80      updates   91 M
+Установка зависимостей:
+ libcares                                         x86_64  1.34.6-1.red80        updates  111 k
+ libusbx                                          x86_64  1.0.30-1.red80        updates   79 k
+     замена  libusb1.x86_64 1.0.24-6.red80
+ perl-MIME-Base32                                 noarch  1.303-14.red80        base      20 k
+ perl-Unicode-Normalize                           x86_64  1.31-494.red80        base      80 k
+ zlib-ng-compat                                   x86_64  2.2.5-2.red80         updates   76 k
+     замена  zlib.x86_64 1.2.13-4.red80
+Установка слабых зависимостей:
+ gawk-all-langpacks                               x86_64  5.3.2-1.red80         updates  287 k
+
+Результат транзакции
+==============================================================================================
+Установка     7 Пакетов
+Обновление  105 Пакетов
+
+Объем загрузки: 378 M
+Продолжить? [д/Н]: Загрузка пакетов:
+(1/112): perl-MIME-Base32-1.303-14.red80.noarch 188 kB/s |  20 kB     00:00    
+(2/112): perl-Unicode-Normalize-1.31-494.red80. 635 kB/s |  80 kB     00:00    
+(3/112): gawk-all-langpacks-5.3.2-1.red80.x86_6 1.7 MB/s | 287 kB     00:00    
+(4/112): libcares-1.34.6-1.red80.x86_64.rpm     1.9 MB/s | 111 kB     00:00    
+(5/112): libusbx-1.0.30-1.red80.x86_64.rpm      1.2 MB/s |  79 kB     00:00    
+(6/112): zlib-ng-compat-2.2.5-2.red80.x86_64.rp 1.4 MB/s |  76 kB     00:00    
+(7/112): acl-2.4.0-1.red80.x86_64.rpm           1.3 MB/s |  75 kB     00:00    
+(8/112): amd-ucode-firmware-20260810-1.red80.no 1.1 MB/s | 512 kB     00:00    
+(9/112): amd-gpu-firmware-20260810-1.red80.noar 3.6 MB/s |  16 MB     00:04    
+(10/112): audit-3.1.3-5.red80.x86_64.rpm        3.5 MB/s | 256 kB     00:00    
+(11/112): audit-libs-3.1.3-5.red80.x86_64.rpm   701 kB/s | 121 kB     00:00    
+(12/112): brcmfmac-firmware-20260810-1.red80.no 1.0 MB/s | 6.2 MB     00:06    
+(13/112): c-ares-1.34.6-1.red80.x86_64.rpm      997 kB/s | 132 kB     00:00    
+(14/112): cirrus-audio-firmware-20260810-1.red8 639 kB/s | 711 kB     00:01    
+(15/112): curl-8.21.0-1.red80.x86_64.rpm        653 kB/s | 302 kB     00:00    
+(16/112): expat-2.8.4-1.red80.x86_64.rpm        303 kB/s | 129 kB     00:00    
+(17/112): file-5.46-3.red80.x86_64.rpm          283 kB/s |  47 kB     00:00    
+(18/112): file-libs-5.46-3.red80.x86_64.rpm     4.0 MB/s | 847 kB     00:00    
+(19/112): gawk-5.3.2-1.red80.x86_64.rpm         2.6 MB/s | 1.1 MB     00:00    
+(20/112): atheros-firmware-20260810-1.red80.noa 3.1 MB/s |  44 MB     00:13    
+(21/112): gdisk-1.0.10-1.red80.x86_64.rpm       375 kB/s | 257 kB     00:00    
+(22/112): grub2-common-2.12-8.red80.noarch.rpm  3.2 MB/s | 1.0 MB     00:00    
+(23/112): grub2-pc-2.12-8.red80.x86_64.rpm      181 kB/s | 9.0 kB     00:00    
+(24/112): grub2-pc-modules-2.12-8.red80.noarch. 3.4 MB/s | 1.0 MB     00:00    
+(25/112): glib2-2.84.4-3.red80.x86_64.rpm       3.6 MB/s | 3.0 MB     00:00    
+(26/112): grub2-tools-minimal-2.12-8.red80.x86_ 3.9 MB/s | 615 kB     00:00    
+(27/112): hddtemp-0.3-0.52.beta15.red80.x86_64. 1.4 MB/s |  58 kB     00:00    
+(28/112): grub2-tools-2.12-8.red80.x86_64.rpm   4.8 MB/s | 1.8 MB     00:00    
+(29/112): htop-3.5.2-1.red80.x86_64.rpm         2.5 MB/s | 218 kB     00:00    
+(30/112): intel-audio-firmware-20260810-1.red80 2.9 MB/s | 1.3 MB     00:00    
+(31/112): kernel-lt-6.12.101-1.red80.x86_64.rpm 5.6 MB/s |  91 MB     00:16    
+(32/112): libacl-2.4.0-1.red80.x86_64.rpm       110 kB/s |  25 kB     00:00    
+(33/112): libattr-2.6.0-1.red80.x86_64.rpm      614 kB/s |  17 kB     00:00    
+(34/112): libbpf-1.7.0-1.red80.x86_64.rpm       4.3 MB/s | 196 kB     00:00    
+(35/112): libibverbs-2510.0.11-1.red80.x86_64.r 5.9 MB/s | 304 kB     00:00    
+(36/112): libnghttp2-1.69.0-1.red80.x86_64.rpm  2.4 MB/s | 101 kB     00:00    
+(37/112): libssh-0.12.2-1.red80.x86_64.rpm      3.6 MB/s | 263 kB     00:00    
+(38/112): libssh-config-0.12.2-1.red80.noarch.r 372 kB/s | 8.1 kB     00:00    
+(39/112): libssh2-1.11.1-2.red80.x86_64.rpm     3.2 MB/s | 239 kB     00:00    
+(40/112): libcurl-8.21.0-1.red80.x86_64.rpm     1.3 MB/s | 430 kB     00:00    
+(41/112): libuv-1.52.1-1.red80.x86_64.rpm       3.5 MB/s | 263 kB     00:00    
+(42/112): libxml2-2.10.4-14.red80.x86_64.rpm    4.3 MB/s | 702 kB     00:00    
+(43/112): intel-gpu-firmware-20260810-1.red80.n 3.9 MB/s | 4.6 MB     00:01    
+(44/112): libzstd-1.5.7-2.red80.x86_64.rpm      1.6 MB/s | 355 kB     00:00    
+(45/112): loginfo-cli-1.5-1.red80.x86_64.rpm    5.0 MB/s | 384 kB     00:00    
+(46/112): linux-firmware-whence-20260810-1.red8 205 kB/s |  50 kB     00:00    
+(47/112): mpfr-4.2.2-2.red80.x86_64.rpm         3.8 MB/s | 652 kB     00:00    
+(48/112): mt7xxx-firmware-20260810-1.red80.noar 4.4 MB/s |  30 MB     00:06    
+(49/112): nxpwireless-firmware-20260810-1.red80 3.7 MB/s | 1.4 MB     00:00    
+(50/112): p11-kit-0.26.5-1.red80.x86_64.rpm     3.5 MB/s | 568 kB     00:00    
+(51/112): p11-kit-trust-0.26.5-1.red80.x86_64.r 3.4 MB/s | 152 kB     00:00    
+(52/112): perl-AutoLoader-5.74-500.red80.noarch 832 kB/s |  20 kB     00:00    
+(53/112): perl-B-1.83-500.red80.x86_64.rpm      3.6 MB/s | 180 kB     00:00    
+(54/112): perl-Class-Struct-0.66-500.red80.noar 717 kB/s |  21 kB     00:00    
+(55/112): perl-DynaLoader-1.52-500.red80.x86_64 904 kB/s |  25 kB     00:00    
+(56/112): perl-Errno-1.36-500.red80.x86_64.rpm  641 kB/s |  14 kB     00:00    
+(57/112): perl-Fcntl-1.15-500.red80.x86_64.rpm  616 kB/s |  19 kB     00:00    
+(58/112): perl-File-Basename-2.85-500.red80.noa 553 kB/s |  16 kB     00:00    
+(59/112): perl-File-Copy-2.39-500.red80.noarch. 608 kB/s |  19 kB     00:00    
+(60/112): perl-File-Find-1.40-500.red80.noarch. 895 kB/s |  24 kB     00:00    
+(61/112): perl-File-stat-1.12-500.red80.noarch. 581 kB/s |  16 kB     00:00    
+(62/112): perl-FileHandle-2.03-500.red80.noarch 521 kB/s |  15 kB     00:00    
+(63/112): perl-Getopt-Std-1.13-500.red80.noarch 437 kB/s |  15 kB     00:00    
+(64/112): perl-IO-1.50-500.red80.x86_64.rpm     1.5 MB/s |  86 kB     00:00    
+(65/112): perl-IPC-Open3-1.22-500.red80.noarch. 703 kB/s |  22 kB     00:00    
+(66/112): perl-Math-Complex-1.59-500.red80.noar 1.2 MB/s |  46 kB     00:00    
+(67/112): perl-POSIX-2.03-500.red80.x86_64.rpm  1.6 MB/s |  97 kB     00:00    
+(68/112): perl-SelectSaver-1.02-500.red80.noarc 360 kB/s |  11 kB     00:00    
+(69/112): linux-firmware-20260810-1.red80.noarc 3.7 MB/s |  31 MB     00:08    
+(70/112): perl-Symbol-1.09-500.red80.noarch.rpm  49 kB/s |  13 kB     00:00    
+(71/112): perl-Socket-2.043-1.red80.x86_64.rpm  149 kB/s |  56 kB     00:00    
+(72/112): perl-Sys-Hostname-1.24-500.red80.x86_ 551 kB/s |  16 kB     00:00    
+(73/112): perl-URI-5.37-1.red80.noarch.rpm      4.7 MB/s | 136 kB     00:00    
+(74/112): perl-base-2.27-500.red80.noarch.rpm   552 kB/s |  16 kB     00:00    
+(75/112): perl-if-0.61.000-500.red80.noarch.rpm 587 kB/s |  13 kB     00:00    
+(76/112): perl-interpreter-5.36.0-500.red80.x86 2.1 MB/s |  73 kB     00:00    
+(77/112): perl-mro-1.26-500.red80.x86_64.rpm    1.0 MB/s |  28 kB     00:00    
+(78/112): perl-overload-1.35-500.red80.noarch.r 2.7 MB/s |  45 kB     00:00    
+(79/112): perl-overloading-0.02-500.red80.noarc 100 kB/s |  12 kB     00:00    
+(80/112): perl-subs-1.04-500.red80.noarch.rpm   399 kB/s |  11 kB     00:00    
+(81/112): perl-vars-1.05-500.red80.noarch.rpm   101 kB/s |  13 kB     00:00    
+(82/112): perl-libs-5.36.0-500.red80.x86_64.rpm 5.2 MB/s | 2.1 MB     00:00    
+(83/112): protobuf-c-1.4.1-4.red80.x86_64.rpm   1.3 MB/s |  38 kB     00:00    
+(84/112): postfix-3.11.6-1.red80.x86_64.rpm     5.4 MB/s | 1.6 MB     00:00    
+(85/112): python-pip-wheel-25.1.1-8.red80.noarc 4.9 MB/s | 1.2 MB     00:00    
+(86/112): python-setuptools-wheel-78.1.1-5.red8 4.0 MB/s | 1.1 MB     00:00    
+(87/112): python3-rpm-4.18.2-9.red80.x86_64.rpm 396 kB/s |  87 kB     00:00    
+(88/112): redos-release-8.0.3-6.red80.noarch.rp 111 kB/s |  28 kB     00:00    
+(89/112): redos-release-identity-standard-serve  39 kB/s | 9.0 kB     00:00    
+(90/112): redos-release-minimal-8.0.3-6.red80.n  60 kB/s | 7.9 kB     00:00    
+(91/112): realtek-firmware-20260810-1.red80.noa 5.1 MB/s | 3.8 MB     00:00    
+(92/112): rpm-4.18.2-9.red80.x86_64.rpm         2.5 MB/s | 530 kB     00:00    
+(93/112): rpm-build-libs-4.18.2-9.red80.x86_64. 935 kB/s |  87 kB     00:00    
+(94/112): rpm-libs-4.18.2-9.red80.x86_64.rpm    3.3 MB/s | 314 kB     00:00    
+(95/112): rpm-sign-libs-4.18.2-9.red80.x86_64.r 507 kB/s |  18 kB     00:00    
+(96/112): rpm-plugin-selinux-4.18.2-9.red80.x86  53 kB/s |  13 kB     00:00    
+(97/112): selinux-policy-38.33-13.red80.noarch. 4.3 MB/s | 1.8 MB     00:00    
+(98/112): sqlite-libs-3.40.0-9.red80.x86_64.rpm 3.1 MB/s | 655 kB     00:00    
+(99/112): systemd-253.30-5.red80.x86_64.rpm     4.0 MB/s | 4.4 MB     00:01    
+(100/112): systemd-libs-253.30-5.red80.x86_64.r 4.4 MB/s | 642 kB     00:00    
+(101/112): systemd-oomd-defaults-253.30-5.red80 370 kB/s | 8.0 kB     00:00    
+(102/112): systemd-pam-253.30-5.red80.x86_64.rp 3.3 MB/s | 324 kB     00:00    
+(103/112): systemd-resolved-253.30-5.red80.x86_ 2.7 MB/s | 275 kB     00:00    
+(104/112): systemd-udev-253.30-5.red80.x86_64.r 5.5 MB/s | 2.1 MB     00:00    
+(105/112): tiwilink-firmware-20260810-1.red80.n 3.9 MB/s | 2.3 MB     00:00    
+(106/112): vim-data-9.2.0954-1.red80.noarch.rpm 539 kB/s |  14 kB     00:00    
+(107/112): vim-minimal-9.2.0954-1.red80.x86_64. 7.5 MB/s | 852 kB     00:00    
+(108/112): selinux-policy-targeted-38.33-13.red 2.1 MB/s | 6.5 MB     00:03    
+(109/112): xz-5.2.5-11.red80.x86_64.rpm         624 kB/s | 236 kB     00:00    
+(110/112): wpa_supplicant-2.11-2.red80.x86_64.r 4.0 MB/s | 1.7 MB     00:00    
+(111/112): xz-libs-5.2.5-11.red80.x86_64.rpm    2.2 MB/s | 100 kB     00:00    
+(112/112): nvidia-gpu-firmware-20260810-1.red80 4.6 MB/s | 102 MB     00:21    
+--------------------------------------------------------------------------------
+Общий размер                                    9.7 MB/s | 378 MB     00:39     
+Проверка транзакции
+Проверка транзакции успешно завершена.
+Идет проверка транзакции
+Тест транзакции проведен успешно.
+Выполнение транзакции
+  Запуск скриптлета: selinux-policy-targeted-38.33-13.red80.noarch          1/1 
+  Запуск скриптлета: nvidia-gpu-firmware-20260810-1.red80.noarch            1/1 
+  Подготовка       :                                                        1/1 
+  Установка        : zlib-ng-compat-2.2.5-2.red80.x86_64                  1/219 
+  Обновление       : linux-firmware-whence-20260810-1.red80.noarch        2/219 
+  Обновление       : xz-libs-5.2.5-11.red80.x86_64                        3/219 
+  Обновление       : libzstd-1.5.7-2.red80.x86_64                         4/219 
+  Обновление       : libacl-2.4.0-1.red80.x86_64                          5/219 
+  Обновление       : audit-libs-3.1.3-5.red80.x86_64                      6/219 
+  Обновление       : sqlite-libs-3.40.0-9.red80.x86_64                    7/219 
+  Обновление       : grub2-common-1:2.12-8.red80.noarch                   8/219 
+  Обновление       : file-libs-5.46-3.red80.x86_64                        9/219 
+  Обновление       : p11-kit-0.26.5-1.red80.x86_64                       10/219 
+  Обновление       : file-5.46-3.red80.x86_64                            11/219 
+  Обновление       : systemd-libs-253.30-5.red80.x86_64                  12/219 
+  Обновление       : systemd-pam-253.30-5.red80.x86_64                   13/219 
+  Обновление       : systemd-resolved-253.30-5.red80.x86_64              14/219 
+  Запуск скриптлета: systemd-resolved-253.30-5.red80.x86_64              14/219 
+  Обновление       : systemd-253.30-5.red80.x86_64                       15/219 
+  Запуск скриптлета: systemd-253.30-5.red80.x86_64                       15/219 
+  Обновление       : selinux-policy-38.33-13.red80.noarch                16/219 
+  Запуск скриптлета: selinux-policy-38.33-13.red80.noarch                16/219 
+  Запуск скриптлета: selinux-policy-targeted-38.33-13.red80.noarch       17/219 
+  Обновление       : selinux-policy-targeted-38.33-13.red80.noarch       17/219 
+  Запуск скриптлета: selinux-policy-targeted-38.33-13.red80.noarch       17/219 
+  Обновление       : redos-release-identity-standard-server-minimal-8    18/219 
+  Обновление       : redos-release-minimal-8.0.3-6.red80.noarch          19/219 
+  Обновление       : redos-release-8.0.3-6.red80.noarch                  20/219 
+  Запуск скриптлета: grub2-tools-1:2.12-8.red80.x86_64                   21/219 
+  Обновление       : grub2-tools-1:2.12-8.red80.x86_64                   21/219 
+  Запуск скриптлета: grub2-tools-1:2.12-8.red80.x86_64                   21/219 
+  Обновление       : systemd-udev-253.30-5.red80.x86_64                  22/219 
+  Запуск скриптлета: systemd-udev-253.30-5.red80.x86_64                  22/219 
+  Обновление       : grub2-pc-modules-1:2.12-8.red80.noarch              23/219 
+  Обновление       : grub2-tools-minimal-1:2.12-8.red80.x86_64           24/219 
+  Обновление       : amd-gpu-firmware-20260810-1.red80.noarch            25/219 
+  Обновление       : amd-ucode-firmware-20260810-1.red80.noarch          26/219 
+  Обновление       : atheros-firmware-20260810-1.red80.noarch            27/219 
+  Обновление       : brcmfmac-firmware-20260810-1.red80.noarch           28/219 
+  Обновление       : cirrus-audio-firmware-20260810-1.red80.noarch       29/219 
+  Обновление       : intel-audio-firmware-20260810-1.red80.noarch        30/219 
+  Обновление       : intel-gpu-firmware-20260810-1.red80.noarch          31/219 
+  Обновление       : mt7xxx-firmware-20260810-1.red80.noarch             32/219 
+  Обновление       : nvidia-gpu-firmware-20260810-1.red80.noarch         33/219 
+  Обновление       : nxpwireless-firmware-20260810-1.red80.noarch        34/219 
+  Обновление       : realtek-firmware-20260810-1.red80.noarch            35/219 
+  Обновление       : tiwilink-firmware-20260810-1.red80.noarch           36/219 
+  Обновление       : linux-firmware-20260810-1.red80.noarch              37/219 
+  Обновление       : perl-vars-1.05-500.red80.noarch                     38/219 
+  Обновление       : perl-libs-4:5.36.0-500.red80.x86_64                 39/219 
+  Обновление       : perl-DynaLoader-1.52-500.red80.x86_64               40/219 
+  Обновление       : perl-Fcntl-1.15-500.red80.x86_64                    41/219 
+  Обновление       : perl-Symbol-1.09-500.red80.noarch                   42/219 
+  Обновление       : perl-POSIX-2.03-500.red80.x86_64                    43/219 
+  Обновление       : perl-File-Basename-2.85-500.red80.noarch            44/219 
+  Обновление       : perl-overloading-0.02-500.red80.noarch              45/219 
+  Обновление       : perl-SelectSaver-1.02-500.red80.noarch              46/219 
+  Установка        : perl-MIME-Base32-1.303-14.red80.noarch              47/219 
+  Установка        : perl-Unicode-Normalize-1.31-494.red80.x86_64        48/219 
+  Обновление       : perl-Class-Struct-0.66-500.red80.noarch             49/219 
+  Обновление       : perl-Errno-1.36-500.red80.x86_64                    50/219 
+  Обновление       : perl-Socket-4:2.043-1.red80.x86_64                  51/219 
+  Обновление       : perl-base-2.27-500.red80.noarch                     52/219 
+  Обновление       : perl-if-0.61.000-500.red80.noarch                   53/219 
+  Обновление       : perl-interpreter-4:5.36.0-500.red80.x86_64          54/219 
+  Обновление       : perl-mro-1.26-500.red80.x86_64                      55/219 
+  Обновление       : perl-overload-1.35-500.red80.noarch                 56/219 
+  Обновление       : perl-File-stat-1.12-500.red80.noarch                57/219 
+  Обновление       : perl-IO-1.50-500.red80.x86_64                       58/219 
+  Обновление       : vim-data-2:9.2.0954-1.red80.noarch                  59/219 
+  Обновление       : mpfr-4.2.2-2.red80.x86_64                           60/219 
+  Обновление       : libssh-config-0.12.2-1.red80.noarch                 61/219 
+  Обновление       : libssh-0.12.2-1.red80.x86_64                        62/219 
+  Обновление       : libnghttp2-1.69.0-1.red80.x86_64                    63/219 
+  Обновление       : libcurl-8.21.0-1.red80.x86_64                       64/219 
+  Обновление       : curl-8.21.0-1.red80.x86_64                          65/219 
+  Запуск скриптлета: rpm-4.18.2-9.red80.x86_64                           66/219 
+  Обновление       : rpm-4.18.2-9.red80.x86_64                           66/219 
+  Обновление       : rpm-libs-4.18.2-9.red80.x86_64                      67/219 
+  Обновление       : rpm-build-libs-4.18.2-9.red80.x86_64                68/219 
+  Обновление       : rpm-sign-libs-4.18.2-9.red80.x86_64                 69/219 
+  Установка        : libcares-1.34.6-1.red80.x86_64                      70/219 
+  Установка        : gawk-all-langpacks-5.3.2-1.red80.x86_64             71/219 
+  Обновление       : gawk-5.3.2-1.red80.x86_64                           72/219 
+  Обновление       : c-ares-1.34.6-1.red80.x86_64                        73/219 
+  Обновление       : python3-rpm-4.18.2-9.red80.x86_64                   74/219 
+  Обновление       : rpm-plugin-selinux-4.18.2-9.red80.x86_64            75/219 
+  Обновление       : vim-minimal-2:9.2.0954-1.red80.x86_64               76/219 
+  Обновление       : perl-FileHandle-2.03-500.red80.noarch               77/219 
+  Обновление       : perl-IPC-Open3-1.22-500.red80.noarch                78/219 
+  Обновление       : perl-File-Copy-2.39-500.red80.noarch                79/219 
+  Обновление       : perl-Math-Complex-1.59-500.red80.noarch             80/219 
+  Обновление       : perl-URI-5.37-1.red80.noarch                        81/219 
+  Обновление       : perl-B-1.83-500.red80.x86_64                        82/219 
+  Обновление       : perl-File-Find-1.40-500.red80.noarch                83/219 
+  Обновление       : perl-Sys-Hostname-1.24-500.red80.x86_64             84/219 
+  Обновление       : perl-AutoLoader-5.74-500.red80.noarch               85/219 
+  Обновление       : perl-Getopt-Std-1.13-500.red80.noarch               86/219 
+  Обновление       : perl-subs-1.04-500.red80.noarch                     87/219 
+  Запуск скриптлета: kernel-lt-6.12.101-1.red80.x86_64                   88/219 
+  Установка        : kernel-lt-6.12.101-1.red80.x86_64                   88/219 
+  Обновление       : grub2-pc-1:2.12-8.red80.x86_64                      89/219 
+  Обновление       : audit-3.1.3-5.red80.x86_64                          90/219 
+  Запуск скриптлета: audit-3.1.3-5.red80.x86_64                          90/219 
+Stopping logging: 
+
+  Запуск скриптлета: postfix-2:3.11.6-1.red80.x86_64                     91/219 
+  Обновление       : postfix-2:3.11.6-1.red80.x86_64                     91/219 
+  Запуск скриптлета: postfix-2:3.11.6-1.red80.x86_64                     91/219 
+  Обновление       : systemd-oomd-defaults-253.30-5.red80.noarch         92/219 
+  Обновление       : wpa_supplicant-1:2.11-2.red80.x86_64                93/219 
+  Запуск скриптлета: wpa_supplicant-1:2.11-2.red80.x86_64                93/219 
+  Установка        : libusbx-1.0.30-1.red80.x86_64                       94/219 
+  Обновление       : p11-kit-trust-0.26.5-1.red80.x86_64                 95/219 
+  Запуск скриптлета: p11-kit-trust-0.26.5-1.red80.x86_64                 95/219 
+  Обновление       : acl-2.4.0-1.red80.x86_64                            96/219 
+  Обновление       : libxml2-2.10.4-14.red80.x86_64                      97/219 
+  Обновление       : xz-5.2.5-11.red80.x86_64                            98/219 
+  Обновление       : glib2-2.84.4-3.red80.x86_64                         99/219 
+  Обновление       : libbpf-2:1.7.0-1.red80.x86_64                      100/219 
+  Обновление       : libssh2-1.11.1-2.red80.x86_64                      101/219 
+  Обновление       : python-setuptools-wheel-78.1.1-5.red80.noarch      102/219 
+  Обновление       : python-pip-wheel-25.1.1-8.red80.noarch             103/219 
+  Обновление       : protobuf-c-1.4.1-4.red80.x86_64                    104/219 
+  Обновление       : loginfo-cli-1.5-1.red80.x86_64                     105/219 
+  Обновление       : libuv-1:1.52.1-1.red80.x86_64                      106/219 
+  Обновление       : libibverbs-2510.0.11-1.red80.x86_64                107/219 
+  Запуск скриптлета: libibverbs-2510.0.11-1.red80.x86_64                107/219 
+  Обновление       : libattr-2.6.0-1.red80.x86_64                       108/219 
+  Обновление       : htop-3.5.2-1.red80.x86_64                          109/219 
+  Обновление       : hddtemp-0.3-0.52.beta15.red80.x86_64               110/219 
+  Запуск скриптлета: hddtemp-0.3-0.52.beta15.red80.x86_64               110/219 
+  Обновление       : gdisk-1.0.10-1.red80.x86_64                        111/219 
+  Обновление       : expat-2.8.4-1.red80.x86_64                         112/219 
+  Очистка          : linux-firmware-20260519-1.red80.noarch             113/219 
+  Запуск скриптлета: systemd-udev-253.30-3.red80.x86_64                 114/219 
+  Очистка          : systemd-udev-253.30-3.red80.x86_64                 114/219 
+  Запуск скриптлета: systemd-udev-253.30-3.red80.x86_64                 114/219 
+  Очистка          : python3-rpm-4.18.2-7.red80.x86_64                  115/219 
+  Очистка          : rpm-build-libs-4.18.2-7.red80.x86_64               116/219 
+  Очистка          : rpm-plugin-selinux-4.18.2-7.red80.x86_64           117/219 
+  Очистка          : perl-B-1.83-499.red80.x86_64                       118/219 
+  Очистка          : perl-IPC-Open3-1.22-499.red80.noarch               119/219 
+  Очистка          : perl-File-Copy-2.39-499.red80.noarch               120/219 
+  Очистка          : perl-URI-5.09-5.red80.noarch                       121/219 
+  Очистка          : perl-File-Find-1.40-499.red80.noarch               122/219 
+  Очистка          : rpm-sign-libs-4.18.2-7.red80.x86_64                123/219 
+  Очистка          : rpm-4.18.2-7.red80.x86_64                          124/219 
+  Очистка          : rpm-libs-4.18.2-7.red80.x86_64                     125/219 
+  Очистка          : perl-Sys-Hostname-1.24-499.red80.x86_64            126/219 
+  Очистка          : perl-POSIX-2.03-499.red80.x86_64                   127/219 
+  Запуск скриптлета: audit-3.1.3-1.red80.x86_64                         128/219 
+Stopping logging: 
+No rules
+
+  Очистка          : audit-3.1.3-1.red80.x86_64                         128/219 
+  Очистка          : perl-File-Basename-2.85-499.red80.noarch           129/219 
+  Запуск скриптлета: selinux-policy-38.33-9.red80.noarch                130/219 
+  Очистка          : selinux-policy-38.33-9.red80.noarch                130/219 
+  Запуск скриптлета: selinux-policy-38.33-9.red80.noarch                130/219 
+  Очистка          : perl-Math-Complex-1.59-499.red80.noarch            131/219 
+  Очистка          : perl-FileHandle-2.03-499.red80.noarch              132/219 
+  Очистка          : grub2-pc-1:2.12-6.red80.x86_64                     133/219 
+  Очистка          : perl-IO-1.50-499.red80.x86_64                      134/219 
+  Очистка          : perl-File-stat-1.12-499.red80.noarch               135/219 
+  Запуск скриптлета: grub2-tools-1:2.12-6.red80.x86_64                  136/219 
+  Очистка          : grub2-tools-1:2.12-6.red80.x86_64                  136/219 
+  Запуск скриптлета: grub2-tools-1:2.12-6.red80.x86_64                  136/219 
+  Очистка          : perl-overload-1.35-499.red80.noarch                137/219 
+  Очистка          : perl-mro-1.26-499.red80.x86_64                     138/219 
+  Очистка          : perl-Socket-4:2.033-494.red80.x86_64               139/219 
+  Очистка          : libxml2-2.10.4-12.red80.x86_64                     140/219 
+  Очистка          : perl-Class-Struct-0.66-499.red80.noarch            141/219 
+  Очистка          : perl-Errno-1.36-499.red80.x86_64                   142/219 
+  Очистка          : perl-overloading-0.02-499.red80.noarch             143/219 
+  Очистка          : perl-SelectSaver-1.02-499.red80.noarch             144/219 
+  Очистка          : perl-Symbol-1.09-499.red80.noarch                  145/219 
+  Очистка          : perl-subs-1.04-499.red80.noarch                    146/219 
+  Очистка          : perl-base-2.27-499.red80.noarch                    147/219 
+  Очистка          : perl-Getopt-Std-1.13-499.red80.noarch              148/219 
+  Очистка          : perl-AutoLoader-5.74-499.red80.noarch              149/219 
+  Очистка          : perl-Fcntl-1.15-499.red80.x86_64                   150/219 
+  Очистка          : curl-8.0.1-19.red80.x86_64                         151/219 
+  Очистка          : libcurl-8.0.1-19.red80.x86_64                      152/219 
+  Очистка          : xz-5.2.5-9.red80.x86_64                            153/219 
+  Запуск скриптлета: wpa_supplicant-1:2.11-1.red80.x86_64               154/219 
+  Очистка          : wpa_supplicant-1:2.11-1.red80.x86_64               154/219 
+  Запуск скриптлета: postfix-2:3.10.9-1.red80.x86_64                    155/219 
+  Очистка          : postfix-2:3.10.9-1.red80.x86_64                    155/219 
+  Запуск скриптлета: postfix-2:3.10.9-1.red80.x86_64                    155/219 
+  Очистка          : perl-interpreter-4:5.36.0-499.red80.x86_64         156/219 
+  Очистка          : grub2-tools-minimal-1:2.12-6.red80.x86_64          157/219 
+  Очистка          : vim-minimal-2:9.2.530-1.red80.x86_64               158/219 
+  Очистка          : p11-kit-trust-0.25.3-6.red80.x86_64                159/219 
+  Запуск скриптлета: p11-kit-trust-0.25.3-6.red80.x86_64                159/219 
+  Очистка          : acl-2.3.1-3.red80.x86_64                           160/219 
+  Очистка          : perl-if-0.61.000-499.red80.noarch                  161/219 
+  Очистка          : redos-release-8.0.3-4.red80.noarch                 162/219 
+  Очистка          : libssh-0.11.4-1.red80.x86_64                       163/219 
+  Очистка          : file-5.46-2.red80.x86_64                           164/219 
+  Очистка          : libbpf-2:1.5.0-1.red80.x86_64                      165/219 
+  Очистка          : glib2-2.84.4-2.red80.x86_64                        166/219 
+  Исключаем        : libusb1-1.0.24-6.red80.x86_64                      167/219 
+  Очистка          : redos-release-minimal-8.0.3-4.red80.noarch         168/219 
+  Очистка          : grub2-pc-modules-1:2.12-6.red80.noarch             169/219 
+  Очистка          : amd-gpu-firmware-20260519-1.red80.noarch           170/219 
+  Очистка          : amd-ucode-firmware-20260519-1.red80.noarch         171/219 
+  Очистка          : atheros-firmware-20260519-1.red80.noarch           172/219 
+  Очистка          : brcmfmac-firmware-20260519-1.red80.noarch          173/219 
+  Очистка          : cirrus-audio-firmware-20260519-1.red80.noarch      174/219 
+  Очистка          : intel-audio-firmware-20260519-1.red80.noarch       175/219 
+  Очистка          : intel-gpu-firmware-20260519-1.red80.noarch         176/219 
+  Очистка          : mt7xxx-firmware-20260519-1.red80.noarch            177/219 
+  Очистка          : nvidia-gpu-firmware-20260519-1.red80.noarch        178/219 
+  Очистка          : nxpwireless-firmware-20260519-1.red80.noarch       179/219 
+  Очистка          : realtek-firmware-20260519-1.red80.noarch           180/219 
+  Очистка          : tiwilink-firmware-20260519-1.red80.noarch          181/219 
+  Очистка          : systemd-oomd-defaults-253.30-3.red80.noarch        182/219 
+  Очистка          : systemd-253.30-3.red80.x86_64                      183/219 
+  Запуск скриптлета: systemd-253.30-3.red80.x86_64                      183/219 
+  Очистка          : systemd-libs-253.30-3.red80.x86_64                 184/219 
+  Очистка          : libacl-2.3.1-3.red80.x86_64                        185/219 
+  Очистка          : file-libs-5.46-2.red80.x86_64                      186/219 
+  Очистка          : perl-vars-1.05-499.red80.noarch                    187/219 
+  Очистка          : perl-DynaLoader-1.52-499.red80.x86_64              188/219 
+  Очистка          : perl-libs-4:5.36.0-499.red80.x86_64                189/219 
+  Очистка          : sqlite-libs-3.40.0-8.red80.x86_64                  190/219 
+  Очистка          : libssh2-1.11.1-1.red80.x86_64                      191/219 
+  Очистка          : gawk-5.1.1-2.red80.x86_64                          192/219 
+  Очистка          : linux-firmware-whence-20260519-1.red80.noarch      193/219 
+  Очистка          : grub2-common-1:2.12-6.red80.noarch                 194/219 
+  Очистка          : redos-release-identity-standard-server-minimal-8   195/219 
+  Очистка          : libssh-config-0.11.4-1.red80.noarch                196/219 
+  Очистка          : vim-data-2:9.2.530-1.red80.noarch                  197/219 
+  Очистка          : selinux-policy-targeted-38.33-9.red80.noarch       198/219 
+  Запуск скриптлета: selinux-policy-targeted-38.33-9.red80.noarch       198/219 
+  Очистка          : python-setuptools-wheel-78.1.1-4.red80.noarch      199/219 
+  Очистка          : python-pip-wheel-25.1.1-7.red80.noarch             200/219 
+  Очистка          : loginfo-cli-1.3-1.red80.x86_64                     201/219 
+  Очистка          : mpfr-4.1.0-11.red80.x86_64                         202/219 
+  Исключаем        : zlib-1.2.13-4.red80.x86_64                         203/219 
+  Очистка          : libattr-2.5.1-4.red80.x86_64                       204/219 
+  Очистка          : xz-libs-5.2.5-9.red80.x86_64                       205/219 
+  Очистка          : libzstd-1.5.7-1.red80.x86_64                       206/219 
+  Запуск скриптлета: libzstd-1.5.7-1.red80.x86_64                       206/219 
+  Очистка          : audit-libs-3.1.3-1.red80.x86_64                    207/219 
+  Очистка          : p11-kit-0.25.3-6.red80.x86_64                      208/219 
+  Очистка          : systemd-pam-253.30-3.red80.x86_64                  209/219 
+  Запуск скриптлета: systemd-resolved-253.30-3.red80.x86_64             210/219 
+  Очистка          : systemd-resolved-253.30-3.red80.x86_64             210/219 
+  Запуск скриптлета: systemd-resolved-253.30-3.red80.x86_64             210/219 
+  Очистка          : libnghttp2-1.51.0-3.red80.x86_64                   211/219 
+  Очистка          : protobuf-c-1.4.1-1.red80.x86_64                    212/219 
+  Очистка          : libuv-1:1.51.0-1.red80.x86_64                      213/219 
+  Очистка          : libibverbs-56-1.2501mlnx56.2501060.red80.x86_64    214/219 
+  Запуск скриптлета: libibverbs-56-1.2501mlnx56.2501060.red80.x86_64    214/219 
+  Очистка          : htop-3.4.1-1.red80.x86_64                          215/219 
+  Запуск скриптлета: hddtemp-0.3-0.50.beta15.red80.x86_64               216/219 
+  Очистка          : hddtemp-0.3-0.50.beta15.red80.x86_64               216/219 
+  Запуск скриптлета: hddtemp-0.3-0.50.beta15.red80.x86_64               216/219 
+  Очистка          : gdisk-1.0.8-3.red80.x86_64                         217/219 
+  Очистка          : expat-2.7.5-1.red80.x86_64                         218/219 
+  Очистка          : c-ares-1.17.2-4.red80.x86_64                       219/219 
+  Запуск скриптлета: grub2-common-1:2.12-8.red80.noarch                 219/219 
+  Запуск скриптлета: systemd-resolved-253.30-5.red80.x86_64             219/219 
+  Запуск скриптлета: selinux-policy-targeted-38.33-13.red80.noarch      219/219 
+  Запуск скриптлета: rpm-4.18.2-9.red80.x86_64                          219/219 
+  Запуск скриптлета: kernel-lt-6.12.101-1.red80.x86_64                  219/219 
+  Запуск скриптлета: p11-kit-trust-0.26.5-1.red80.x86_64                219/219 
+  Запуск скриптлета: loginfo-cli-1.5-1.red80.x86_64                     219/219 
+  Запуск скриптлета: c-ares-1.17.2-4.red80.x86_64                       219/219 
+  Проверка         : perl-MIME-Base32-1.303-14.red80.noarch               1/219 
+  Проверка         : perl-Unicode-Normalize-1.31-494.red80.x86_64         2/219 
+  Проверка         : gawk-all-langpacks-5.3.2-1.red80.x86_64              3/219 
+  Проверка         : kernel-lt-6.12.101-1.red80.x86_64                    4/219 
+  Проверка         : libcares-1.34.6-1.red80.x86_64                       5/219 
+  Проверка         : libusbx-1.0.30-1.red80.x86_64                        6/219 
+  Проверка         : libusb1-1.0.24-6.red80.x86_64                        7/219 
+  Проверка         : zlib-ng-compat-2.2.5-2.red80.x86_64                  8/219 
+  Проверка         : zlib-1.2.13-4.red80.x86_64                           9/219 
+  Проверка         : acl-2.4.0-1.red80.x86_64                            10/219 
+  Проверка         : acl-2.3.1-3.red80.x86_64                            11/219 
+  Проверка         : amd-gpu-firmware-20260810-1.red80.noarch            12/219 
+  Проверка         : amd-gpu-firmware-20260519-1.red80.noarch            13/219 
+  Проверка         : amd-ucode-firmware-20260810-1.red80.noarch          14/219 
+  Проверка         : amd-ucode-firmware-20260519-1.red80.noarch          15/219 
+  Проверка         : atheros-firmware-20260810-1.red80.noarch            16/219 
+  Проверка         : atheros-firmware-20260519-1.red80.noarch            17/219 
+  Проверка         : audit-3.1.3-5.red80.x86_64                          18/219 
+  Проверка         : audit-3.1.3-1.red80.x86_64                          19/219 
+  Проверка         : audit-libs-3.1.3-5.red80.x86_64                     20/219 
+  Проверка         : audit-libs-3.1.3-1.red80.x86_64                     21/219 
+  Проверка         : brcmfmac-firmware-20260810-1.red80.noarch           22/219 
+  Проверка         : brcmfmac-firmware-20260519-1.red80.noarch           23/219 
+  Проверка         : c-ares-1.34.6-1.red80.x86_64                        24/219 
+  Проверка         : c-ares-1.17.2-4.red80.x86_64                        25/219 
+  Проверка         : cirrus-audio-firmware-20260810-1.red80.noarch       26/219 
+  Проверка         : cirrus-audio-firmware-20260519-1.red80.noarch       27/219 
+  Проверка         : curl-8.21.0-1.red80.x86_64                          28/219 
+  Проверка         : curl-8.0.1-19.red80.x86_64                          29/219 
+  Проверка         : expat-2.8.4-1.red80.x86_64                          30/219 
+  Проверка         : expat-2.7.5-1.red80.x86_64                          31/219 
+  Проверка         : file-5.46-3.red80.x86_64                            32/219 
+  Проверка         : file-5.46-2.red80.x86_64                            33/219 
+  Проверка         : file-libs-5.46-3.red80.x86_64                       34/219 
+  Проверка         : file-libs-5.46-2.red80.x86_64                       35/219 
+  Проверка         : gawk-5.3.2-1.red80.x86_64                           36/219 
+  Проверка         : gawk-5.1.1-2.red80.x86_64                           37/219 
+  Проверка         : gdisk-1.0.10-1.red80.x86_64                         38/219 
+  Проверка         : gdisk-1.0.8-3.red80.x86_64                          39/219 
+  Проверка         : glib2-2.84.4-3.red80.x86_64                         40/219 
+  Проверка         : glib2-2.84.4-2.red80.x86_64                         41/219 
+  Проверка         : grub2-common-1:2.12-8.red80.noarch                  42/219 
+  Проверка         : grub2-common-1:2.12-6.red80.noarch                  43/219 
+  Проверка         : grub2-pc-1:2.12-8.red80.x86_64                      44/219 
+  Проверка         : grub2-pc-1:2.12-6.red80.x86_64                      45/219 
+  Проверка         : grub2-pc-modules-1:2.12-8.red80.noarch              46/219 
+  Проверка         : grub2-pc-modules-1:2.12-6.red80.noarch              47/219 
+  Проверка         : grub2-tools-1:2.12-8.red80.x86_64                   48/219 
+  Проверка         : grub2-tools-1:2.12-6.red80.x86_64                   49/219 
+  Проверка         : grub2-tools-minimal-1:2.12-8.red80.x86_64           50/219 
+  Проверка         : grub2-tools-minimal-1:2.12-6.red80.x86_64           51/219 
+  Проверка         : hddtemp-0.3-0.52.beta15.red80.x86_64                52/219 
+  Проверка         : hddtemp-0.3-0.50.beta15.red80.x86_64                53/219 
+  Проверка         : htop-3.5.2-1.red80.x86_64                           54/219 
+  Проверка         : htop-3.4.1-1.red80.x86_64                           55/219 
+  Проверка         : intel-audio-firmware-20260810-1.red80.noarch        56/219 
+  Проверка         : intel-audio-firmware-20260519-1.red80.noarch        57/219 
+  Проверка         : intel-gpu-firmware-20260810-1.red80.noarch          58/219 
+  Проверка         : intel-gpu-firmware-20260519-1.red80.noarch          59/219 
+  Проверка         : libacl-2.4.0-1.red80.x86_64                         60/219 
+  Проверка         : libacl-2.3.1-3.red80.x86_64                         61/219 
+  Проверка         : libattr-2.6.0-1.red80.x86_64                        62/219 
+  Проверка         : libattr-2.5.1-4.red80.x86_64                        63/219 
+  Проверка         : libbpf-2:1.7.0-1.red80.x86_64                       64/219 
+  Проверка         : libbpf-2:1.5.0-1.red80.x86_64                       65/219 
+  Проверка         : libcurl-8.21.0-1.red80.x86_64                       66/219 
+  Проверка         : libcurl-8.0.1-19.red80.x86_64                       67/219 
+  Проверка         : libibverbs-2510.0.11-1.red80.x86_64                 68/219 
+  Проверка         : libibverbs-56-1.2501mlnx56.2501060.red80.x86_64     69/219 
+  Проверка         : libnghttp2-1.69.0-1.red80.x86_64                    70/219 
+  Проверка         : libnghttp2-1.51.0-3.red80.x86_64                    71/219 
+  Проверка         : libssh-0.12.2-1.red80.x86_64                        72/219 
+  Проверка         : libssh-0.11.4-1.red80.x86_64                        73/219 
+  Проверка         : libssh-config-0.12.2-1.red80.noarch                 74/219 
+  Проверка         : libssh-config-0.11.4-1.red80.noarch                 75/219 
+  Проверка         : libssh2-1.11.1-2.red80.x86_64                       76/219 
+  Проверка         : libssh2-1.11.1-1.red80.x86_64                       77/219 
+  Проверка         : libuv-1:1.52.1-1.red80.x86_64                       78/219 
+  Проверка         : libuv-1:1.51.0-1.red80.x86_64                       79/219 
+  Проверка         : libxml2-2.10.4-14.red80.x86_64                      80/219 
+  Проверка         : libxml2-2.10.4-12.red80.x86_64                      81/219 
+  Проверка         : libzstd-1.5.7-2.red80.x86_64                        82/219 
+  Проверка         : libzstd-1.5.7-1.red80.x86_64                        83/219 
+  Проверка         : linux-firmware-20260810-1.red80.noarch              84/219 
+  Проверка         : linux-firmware-20260519-1.red80.noarch              85/219 
+  Проверка         : linux-firmware-whence-20260810-1.red80.noarch       86/219 
+  Проверка         : linux-firmware-whence-20260519-1.red80.noarch       87/219 
+  Проверка         : loginfo-cli-1.5-1.red80.x86_64                      88/219 
+  Проверка         : loginfo-cli-1.3-1.red80.x86_64                      89/219 
+  Проверка         : mpfr-4.2.2-2.red80.x86_64                           90/219 
+  Проверка         : mpfr-4.1.0-11.red80.x86_64                          91/219 
+  Проверка         : mt7xxx-firmware-20260810-1.red80.noarch             92/219 
+  Проверка         : mt7xxx-firmware-20260519-1.red80.noarch             93/219 
+  Проверка         : nvidia-gpu-firmware-20260810-1.red80.noarch         94/219 
+  Проверка         : nvidia-gpu-firmware-20260519-1.red80.noarch         95/219 
+  Проверка         : nxpwireless-firmware-20260810-1.red80.noarch        96/219 
+  Проверка         : nxpwireless-firmware-20260519-1.red80.noarch        97/219 
+  Проверка         : p11-kit-0.26.5-1.red80.x86_64                       98/219 
+  Проверка         : p11-kit-0.25.3-6.red80.x86_64                       99/219 
+  Проверка         : p11-kit-trust-0.26.5-1.red80.x86_64                100/219 
+  Проверка         : p11-kit-trust-0.25.3-6.red80.x86_64                101/219 
+  Проверка         : perl-AutoLoader-5.74-500.red80.noarch              102/219 
+  Проверка         : perl-AutoLoader-5.74-499.red80.noarch              103/219 
+  Проверка         : perl-B-1.83-500.red80.x86_64                       104/219 
+  Проверка         : perl-B-1.83-499.red80.x86_64                       105/219 
+  Проверка         : perl-Class-Struct-0.66-500.red80.noarch            106/219 
+  Проверка         : perl-Class-Struct-0.66-499.red80.noarch            107/219 
+  Проверка         : perl-DynaLoader-1.52-500.red80.x86_64              108/219 
+  Проверка         : perl-DynaLoader-1.52-499.red80.x86_64              109/219 
+  Проверка         : perl-Errno-1.36-500.red80.x86_64                   110/219 
+  Проверка         : perl-Errno-1.36-499.red80.x86_64                   111/219 
+  Проверка         : perl-Fcntl-1.15-500.red80.x86_64                   112/219 
+  Проверка         : perl-Fcntl-1.15-499.red80.x86_64                   113/219 
+  Проверка         : perl-File-Basename-2.85-500.red80.noarch           114/219 
+  Проверка         : perl-File-Basename-2.85-499.red80.noarch           115/219 
+  Проверка         : perl-File-Copy-2.39-500.red80.noarch               116/219 
+  Проверка         : perl-File-Copy-2.39-499.red80.noarch               117/219 
+  Проверка         : perl-File-Find-1.40-500.red80.noarch               118/219 
+  Проверка         : perl-File-Find-1.40-499.red80.noarch               119/219 
+  Проверка         : perl-File-stat-1.12-500.red80.noarch               120/219 
+  Проверка         : perl-File-stat-1.12-499.red80.noarch               121/219 
+  Проверка         : perl-FileHandle-2.03-500.red80.noarch              122/219 
+  Проверка         : perl-FileHandle-2.03-499.red80.noarch              123/219 
+  Проверка         : perl-Getopt-Std-1.13-500.red80.noarch              124/219 
+  Проверка         : perl-Getopt-Std-1.13-499.red80.noarch              125/219 
+  Проверка         : perl-IO-1.50-500.red80.x86_64                      126/219 
+  Проверка         : perl-IO-1.50-499.red80.x86_64                      127/219 
+  Проверка         : perl-IPC-Open3-1.22-500.red80.noarch               128/219 
+  Проверка         : perl-IPC-Open3-1.22-499.red80.noarch               129/219 
+  Проверка         : perl-Math-Complex-1.59-500.red80.noarch            130/219 
+  Проверка         : perl-Math-Complex-1.59-499.red80.noarch            131/219 
+  Проверка         : perl-POSIX-2.03-500.red80.x86_64                   132/219 
+  Проверка         : perl-POSIX-2.03-499.red80.x86_64                   133/219 
+  Проверка         : perl-SelectSaver-1.02-500.red80.noarch             134/219 
+  Проверка         : perl-SelectSaver-1.02-499.red80.noarch             135/219 
+  Проверка         : perl-Socket-4:2.043-1.red80.x86_64                 136/219 
+  Проверка         : perl-Socket-4:2.033-494.red80.x86_64               137/219 
+  Проверка         : perl-Symbol-1.09-500.red80.noarch                  138/219 
+  Проверка         : perl-Symbol-1.09-499.red80.noarch                  139/219 
+  Проверка         : perl-Sys-Hostname-1.24-500.red80.x86_64            140/219 
+  Проверка         : perl-Sys-Hostname-1.24-499.red80.x86_64            141/219 
+  Проверка         : perl-URI-5.37-1.red80.noarch                       142/219 
+  Проверка         : perl-URI-5.09-5.red80.noarch                       143/219 
+  Проверка         : perl-base-2.27-500.red80.noarch                    144/219 
+  Проверка         : perl-base-2.27-499.red80.noarch                    145/219 
+  Проверка         : perl-if-0.61.000-500.red80.noarch                  146/219 
+  Проверка         : perl-if-0.61.000-499.red80.noarch                  147/219 
+  Проверка         : perl-interpreter-4:5.36.0-500.red80.x86_64         148/219 
+  Проверка         : perl-interpreter-4:5.36.0-499.red80.x86_64         149/219 
+  Проверка         : perl-libs-4:5.36.0-500.red80.x86_64                150/219 
+  Проверка         : perl-libs-4:5.36.0-499.red80.x86_64                151/219 
+  Проверка         : perl-mro-1.26-500.red80.x86_64                     152/219 
+  Проверка         : perl-mro-1.26-499.red80.x86_64                     153/219 
+  Проверка         : perl-overload-1.35-500.red80.noarch                154/219 
+  Проверка         : perl-overload-1.35-499.red80.noarch                155/219 
+  Проверка         : perl-overloading-0.02-500.red80.noarch             156/219 
+  Проверка         : perl-overloading-0.02-499.red80.noarch             157/219 
+  Проверка         : perl-subs-1.04-500.red80.noarch                    158/219 
+  Проверка         : perl-subs-1.04-499.red80.noarch                    159/219 
+  Проверка         : perl-vars-1.05-500.red80.noarch                    160/219 
+  Проверка         : perl-vars-1.05-499.red80.noarch                    161/219 
+  Проверка         : postfix-2:3.11.6-1.red80.x86_64                    162/219 
+  Проверка         : postfix-2:3.10.9-1.red80.x86_64                    163/219 
+  Проверка         : protobuf-c-1.4.1-4.red80.x86_64                    164/219 
+  Проверка         : protobuf-c-1.4.1-1.red80.x86_64                    165/219 
+  Проверка         : python-pip-wheel-25.1.1-8.red80.noarch             166/219 
+  Проверка         : python-pip-wheel-25.1.1-7.red80.noarch             167/219 
+  Проверка         : python-setuptools-wheel-78.1.1-5.red80.noarch      168/219 
+  Проверка         : python-setuptools-wheel-78.1.1-4.red80.noarch      169/219 
+  Проверка         : python3-rpm-4.18.2-9.red80.x86_64                  170/219 
+  Проверка         : python3-rpm-4.18.2-7.red80.x86_64                  171/219 
+  Проверка         : realtek-firmware-20260810-1.red80.noarch           172/219 
+  Проверка         : realtek-firmware-20260519-1.red80.noarch           173/219 
+  Проверка         : redos-release-8.0.3-6.red80.noarch                 174/219 
+  Проверка         : redos-release-8.0.3-4.red80.noarch                 175/219 
+  Проверка         : redos-release-identity-standard-server-minimal-8   176/219 
+  Проверка         : redos-release-identity-standard-server-minimal-8   177/219 
+  Проверка         : redos-release-minimal-8.0.3-6.red80.noarch         178/219 
+  Проверка         : redos-release-minimal-8.0.3-4.red80.noarch         179/219 
+  Проверка         : rpm-4.18.2-9.red80.x86_64                          180/219 
+  Проверка         : rpm-4.18.2-7.red80.x86_64                          181/219 
+  Проверка         : rpm-build-libs-4.18.2-9.red80.x86_64               182/219 
+  Проверка         : rpm-build-libs-4.18.2-7.red80.x86_64               183/219 
+  Проверка         : rpm-libs-4.18.2-9.red80.x86_64                     184/219 
+  Проверка         : rpm-libs-4.18.2-7.red80.x86_64                     185/219 
+  Проверка         : rpm-plugin-selinux-4.18.2-9.red80.x86_64           186/219 
+  Проверка         : rpm-plugin-selinux-4.18.2-7.red80.x86_64           187/219 
+  Проверка         : rpm-sign-libs-4.18.2-9.red80.x86_64                188/219 
+  Проверка         : rpm-sign-libs-4.18.2-7.red80.x86_64                189/219 
+  Проверка         : selinux-policy-38.33-13.red80.noarch               190/219 
+  Проверка         : selinux-policy-38.33-9.red80.noarch                191/219 
+  Проверка         : selinux-policy-targeted-38.33-13.red80.noarch      192/219 
+  Проверка         : selinux-policy-targeted-38.33-9.red80.noarch       193/219 
+  Проверка         : sqlite-libs-3.40.0-9.red80.x86_64                  194/219 
+  Проверка         : sqlite-libs-3.40.0-8.red80.x86_64                  195/219 
+  Проверка         : systemd-253.30-5.red80.x86_64                      196/219 
+  Проверка         : systemd-253.30-3.red80.x86_64                      197/219 
+  Проверка         : systemd-libs-253.30-5.red80.x86_64                 198/219 
+  Проверка         : systemd-libs-253.30-3.red80.x86_64                 199/219 
+  Проверка         : systemd-oomd-defaults-253.30-5.red80.noarch        200/219 
+  Проверка         : systemd-oomd-defaults-253.30-3.red80.noarch        201/219 
+  Проверка         : systemd-pam-253.30-5.red80.x86_64                  202/219 
+  Проверка         : systemd-pam-253.30-3.red80.x86_64                  203/219 
+  Проверка         : systemd-resolved-253.30-5.red80.x86_64             204/219 
+  Проверка         : systemd-resolved-253.30-3.red80.x86_64             205/219 
+  Проверка         : systemd-udev-253.30-5.red80.x86_64                 206/219 
+  Проверка         : systemd-udev-253.30-3.red80.x86_64                 207/219 
+  Проверка         : tiwilink-firmware-20260810-1.red80.noarch          208/219 
+  Проверка         : tiwilink-firmware-20260519-1.red80.noarch          209/219 
+  Проверка         : vim-data-2:9.2.0954-1.red80.noarch                 210/219 
+  Проверка         : vim-data-2:9.2.530-1.red80.noarch                  211/219 
+  Проверка         : vim-minimal-2:9.2.0954-1.red80.x86_64              212/219 
+  Проверка         : vim-minimal-2:9.2.530-1.red80.x86_64               213/219 
+  Проверка         : wpa_supplicant-1:2.11-2.red80.x86_64               214/219 
+  Проверка         : wpa_supplicant-1:2.11-1.red80.x86_64               215/219 
+  Проверка         : xz-5.2.5-11.red80.x86_64                           216/219 
+  Проверка         : xz-5.2.5-9.red80.x86_64                            217/219 
+  Проверка         : xz-libs-5.2.5-11.red80.x86_64                      218/219 
+  Проверка         : xz-libs-5.2.5-9.red80.x86_64                       219/219 
+
+Обновлен:
+  acl-2.4.0-1.red80.x86_64                                                      
+  amd-gpu-firmware-20260810-1.red80.noarch                                      
+  amd-ucode-firmware-20260810-1.red80.noarch                                    
+  atheros-firmware-20260810-1.red80.noarch                                      
+  audit-3.1.3-5.red80.x86_64                                                    
+  audit-libs-3.1.3-5.red80.x86_64                                               
+  brcmfmac-firmware-20260810-1.red80.noarch                                     
+  c-ares-1.34.6-1.red80.x86_64                                                  
+  cirrus-audio-firmware-20260810-1.red80.noarch                                 
+  curl-8.21.0-1.red80.x86_64                                                    
+  expat-2.8.4-1.red80.x86_64                                                    
+  file-5.46-3.red80.x86_64                                                      
+  file-libs-5.46-3.red80.x86_64                                                 
+  gawk-5.3.2-1.red80.x86_64                                                     
+  gdisk-1.0.10-1.red80.x86_64                                                   
+  glib2-2.84.4-3.red80.x86_64                                                   
+  grub2-common-1:2.12-8.red80.noarch                                            
+  grub2-pc-1:2.12-8.red80.x86_64                                                
+  grub2-pc-modules-1:2.12-8.red80.noarch                                        
+  grub2-tools-1:2.12-8.red80.x86_64                                             
+  grub2-tools-minimal-1:2.12-8.red80.x86_64                                     
+  hddtemp-0.3-0.52.beta15.red80.x86_64                                          
+  htop-3.5.2-1.red80.x86_64                                                     
+  intel-audio-firmware-20260810-1.red80.noarch                                  
+  intel-gpu-firmware-20260810-1.red80.noarch                                    
+  libacl-2.4.0-1.red80.x86_64                                                   
+  libattr-2.6.0-1.red80.x86_64                                                  
+  libbpf-2:1.7.0-1.red80.x86_64                                                 
+  libcurl-8.21.0-1.red80.x86_64                                                 
+  libibverbs-2510.0.11-1.red80.x86_64                                           
+  libnghttp2-1.69.0-1.red80.x86_64                                              
+  libssh-0.12.2-1.red80.x86_64                                                  
+  libssh-config-0.12.2-1.red80.noarch                                           
+  libssh2-1.11.1-2.red80.x86_64                                                 
+  libuv-1:1.52.1-1.red80.x86_64                                                 
+  libxml2-2.10.4-14.red80.x86_64                                                
+  libzstd-1.5.7-2.red80.x86_64                                                  
+  linux-firmware-20260810-1.red80.noarch                                        
+  linux-firmware-whence-20260810-1.red80.noarch                                 
+  loginfo-cli-1.5-1.red80.x86_64                                                
+  mpfr-4.2.2-2.red80.x86_64                                                     
+  mt7xxx-firmware-20260810-1.red80.noarch                                       
+  nvidia-gpu-firmware-20260810-1.red80.noarch                                   
+  nxpwireless-firmware-20260810-1.red80.noarch                                  
+  p11-kit-0.26.5-1.red80.x86_64                                                 
+  p11-kit-trust-0.26.5-1.red80.x86_64                                           
+  perl-AutoLoader-5.74-500.red80.noarch                                         
+  perl-B-1.83-500.red80.x86_64                                                  
+  perl-Class-Struct-0.66-500.red80.noarch                                       
+  perl-DynaLoader-1.52-500.red80.x86_64                                         
+  perl-Errno-1.36-500.red80.x86_64                                              
+  perl-Fcntl-1.15-500.red80.x86_64                                              
+  perl-File-Basename-2.85-500.red80.noarch                                      
+  perl-File-Copy-2.39-500.red80.noarch                                          
+  perl-File-Find-1.40-500.red80.noarch                                          
+  perl-File-stat-1.12-500.red80.noarch                                          
+  perl-FileHandle-2.03-500.red80.noarch                                         
+  perl-Getopt-Std-1.13-500.red80.noarch                                         
+  perl-IO-1.50-500.red80.x86_64                                                 
+  perl-IPC-Open3-1.22-500.red80.noarch                                          
+  perl-Math-Complex-1.59-500.red80.noarch                                       
+  perl-POSIX-2.03-500.red80.x86_64                                              
+  perl-SelectSaver-1.02-500.red80.noarch                                        
+  perl-Socket-4:2.043-1.red80.x86_64                                            
+  perl-Symbol-1.09-500.red80.noarch                                             
+  perl-Sys-Hostname-1.24-500.red80.x86_64                                       
+  perl-URI-5.37-1.red80.noarch                                                  
+  perl-base-2.27-500.red80.noarch                                               
+  perl-if-0.61.000-500.red80.noarch                                             
+  perl-interpreter-4:5.36.0-500.red80.x86_64                                    
+  perl-libs-4:5.36.0-500.red80.x86_64                                           
+  perl-mro-1.26-500.red80.x86_64                                                
+  perl-overload-1.35-500.red80.noarch                                           
+  perl-overloading-0.02-500.red80.noarch                                        
+  perl-subs-1.04-500.red80.noarch                                               
+  perl-vars-1.05-500.red80.noarch                                               
+  postfix-2:3.11.6-1.red80.x86_64                                               
+  protobuf-c-1.4.1-4.red80.x86_64                                               
+  python-pip-wheel-25.1.1-8.red80.noarch                                        
+  python-setuptools-wheel-78.1.1-5.red80.noarch                                 
+  python3-rpm-4.18.2-9.red80.x86_64                                             
+  realtek-firmware-20260810-1.red80.noarch                                      
+  redos-release-8.0.3-6.red80.noarch                                            
+  redos-release-identity-standard-server-minimal-8.0.3-6.red80.noarch           
+  redos-release-minimal-8.0.3-6.red80.noarch                                    
+  rpm-4.18.2-9.red80.x86_64                                                     
+  rpm-build-libs-4.18.2-9.red80.x86_64                                          
+  rpm-libs-4.18.2-9.red80.x86_64                                                
+  rpm-plugin-selinux-4.18.2-9.red80.x86_64                                      
+  rpm-sign-libs-4.18.2-9.red80.x86_64                                           
+  selinux-policy-38.33-13.red80.noarch                                          
+  selinux-policy-targeted-38.33-13.red80.noarch                                 
+  sqlite-libs-3.40.0-9.red80.x86_64                                             
+  systemd-253.30-5.red80.x86_64                                                 
+  systemd-libs-253.30-5.red80.x86_64                                            
+  systemd-oomd-defaults-253.30-5.red80.noarch                                   
+  systemd-pam-253.30-5.red80.x86_64                                             
+  systemd-resolved-253.30-5.red80.x86_64                                        
+  systemd-udev-253.30-5.red80.x86_64                                            
+  tiwilink-firmware-20260810-1.red80.noarch                                     
+  vim-data-2:9.2.0954-1.red80.noarch                                            
+  vim-minimal-2:9.2.0954-1.red80.x86_64                                         
+  wpa_supplicant-1:2.11-2.red80.x86_64                                          
+  xz-5.2.5-11.red80.x86_64                                                      
+  xz-libs-5.2.5-11.red80.x86_64                                                 
+Установлен:
+  gawk-all-langpacks-5.3.2-1.red80.x86_64                                       
+  kernel-lt-6.12.101-1.red80.x86_64                                             
+  libcares-1.34.6-1.red80.x86_64                                                
+  libusbx-1.0.30-1.red80.x86_64                                                 
+  perl-MIME-Base32-1.303-14.red80.noarch                                        
+  perl-Unicode-Normalize-1.31-494.red80.x86_64                                  
+  zlib-ng-compat-2.2.5-2.red80.x86_64                                           
+
+Выполнено!
+Последняя проверка окончания срока действия метаданных: 0:21:44 назад, Вс 04 окт 2026 17:54:21.
+Зависимости разрешены.
+================================================================================
+ Пакет                  Архитектура  Версия                 Репозиторий   Размер
+================================================================================
+Установка:
+ libcap-ng-utils        x86_64       0.8.3-3.red80          base           36 k
+ nginx                  x86_64       1:1.30.4-2.red80       updates        33 k
+Установка зависимостей:
+ gperftools-libs        x86_64       2.9.1-3.red80          base          305 k
+ libunwind              x86_64       1.6.2-1.red80          base           66 k
+ nginx-core             x86_64       1:1.30.4-2.red80       updates       691 k
+ nginx-filesystem       noarch       1:1.30.4-2.red80       updates       8.7 k
+ nginx-mimetypes        noarch       2.1.53-3.red80         base           20 k
+ redos-indexhtml        noarch       8-7.red80              updates       234 k
+ redos-logos            noarch       70.0.11-9.red80        updates       386 k
+
+Результат транзакции
+================================================================================
+Установка  9 Пакетов
+
+Объем загрузки: 1.7 M
+Объем изменений: 4.8 M
+Продолжить? [д/Н]: Загрузка пакетов:
+(1/9): libunwind-1.6.2-1.red80.x86_64.rpm       831 kB/s |  66 kB     00:00    
+(2/9): libcap-ng-utils-0.8.3-3.red80.x86_64.rpm 401 kB/s |  36 kB     00:00    
+(3/9): gperftools-libs-2.9.1-3.red80.x86_64.rpm 3.2 MB/s | 305 kB     00:00    
+(4/9): nginx-1.30.4-2.red80.x86_64.rpm          992 kB/s |  33 kB     00:00    
+(5/9): nginx-mimetypes-2.1.53-3.red80.noarch.rp 322 kB/s |  20 kB     00:00    
+(6/9): nginx-filesystem-1.30.4-2.red80.noarch.r 309 kB/s | 8.7 kB     00:00    
+(7/9): redos-logos-70.0.11-9.red80.noarch.rpm   4.2 MB/s | 386 kB     00:00    
+(8/9): nginx-core-1.30.4-2.red80.x86_64.rpm     4.3 MB/s | 691 kB     00:00    
+(9/9): redos-indexhtml-8-7.red80.noarch.rpm     1.7 MB/s | 234 kB     00:00    
+--------------------------------------------------------------------------------
+Общий размер                                    5.7 MB/s | 1.7 MB     00:00     
+Проверка транзакции
+Проверка транзакции успешно завершена.
+Идет проверка транзакции
+Тест транзакции проведен успешно.
+Выполнение транзакции
+  Подготовка       :                                                        1/1 
+  Запуск скриптлета: nginx-filesystem-1:1.30.4-2.red80.noarch               1/9 
+  Установка        : nginx-filesystem-1:1.30.4-2.red80.noarch               1/9 
+  Установка        : nginx-mimetypes-2.1.53-3.red80.noarch                  2/9 
+  Установка        : redos-logos-70.0.11-9.red80.noarch                     3/9 
+  Установка        : redos-indexhtml-8-7.red80.noarch                       4/9 
+  Установка        : libunwind-1.6.2-1.red80.x86_64                         5/9 
+  Установка        : gperftools-libs-2.9.1-3.red80.x86_64                   6/9 
+  Установка        : nginx-core-1:1.30.4-2.red80.x86_64                     7/9 
+  Установка        : nginx-1:1.30.4-2.red80.x86_64                          8/9 
+  Запуск скриптлета: nginx-1:1.30.4-2.red80.x86_64                          8/9 
+  Установка        : libcap-ng-utils-0.8.3-3.red80.x86_64                   9/9 
+  Запуск скриптлета: libcap-ng-utils-0.8.3-3.red80.x86_64                   9/9 
+  Проверка         : gperftools-libs-2.9.1-3.red80.x86_64                   1/9 
+  Проверка         : libcap-ng-utils-0.8.3-3.red80.x86_64                   2/9 
+  Проверка         : libunwind-1.6.2-1.red80.x86_64                         3/9 
+  Проверка         : nginx-mimetypes-2.1.53-3.red80.noarch                  4/9 
+  Проверка         : nginx-1:1.30.4-2.red80.x86_64                          5/9 
+  Проверка         : nginx-core-1:1.30.4-2.red80.x86_64                     6/9 
+  Проверка         : nginx-filesystem-1:1.30.4-2.red80.noarch               7/9 
+  Проверка         : redos-indexhtml-8-7.red80.noarch                       8/9 
+  Проверка         : redos-logos-70.0.11-9.red80.noarch                     9/9 
+
+Установлен:
+  gperftools-libs-2.9.1-3.red80.x86_64                                          
+  libcap-ng-utils-0.8.3-3.red80.x86_64                                          
+  libunwind-1.6.2-1.red80.x86_64                                                
+  nginx-1:1.30.4-2.red80.x86_64                                                 
+  nginx-core-1:1.30.4-2.red80.x86_64                                            
+  nginx-filesystem-1:1.30.4-2.red80.noarch                                      
+  nginx-mimetypes-2.1.53-3.red80.noarch                                         
+  redos-indexhtml-8-7.red80.noarch                                              
+  redos-logos-70.0.11-9.red80.noarch                                            
+
+Выполнено!
+Последняя проверка окончания срока действия метаданных: 0:22:19 назад, Вс 04 окт 2026 17:54:21.
+(1/2): tcpdump-4.99.5-1.red80.x86_64.rpm        3.3 MB/s | 523 kB     00:00    
+(2/2): tcpdump-4.99.5-1.red80.i686.rpm          2.9 MB/s | 530 kB     00:00    

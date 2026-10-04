@@ -1,0 +1,150 @@
+    1  ping -c 4 8.8.8.8 > ping.out
+    2  less ping.out 
+    3  echo "Task 2"
+    4  sudo dnf update | tee dnf.out
+    5  sudo dnf install nginx libcap-ng-utils | tee -a dnf.out
+    6  sudo dnf download tcpdump | tee -a dnf.out
+    7  less dnf.out 
+    8  sudo rpm -i tcpdump-4.99.5-1.red80.x86_64.rpm 
+    9  echo "Task 3"
+   10  ls
+   11  history
+   12  echo "Task 2 - download to /tmp"
+   13  sudo dnf download --destdir=/tmp tcpdump
+   14  ls /tmp/
+   15  echo "Task 3"
+   16  lsblk
+   17  sudo fdisk /dev/sdb 
+   18  lsblk
+   19  sudo mkfs.ext4 -L MEPHI_WEB /dev/sdb1
+   20  lsblk
+   21  lsblk -f
+   22  sudo mkdir /mephi-web
+   23  less /etc/fstab
+   24  echo 'LABEL=MEPHI_WEB  /mephi-web  ext4  defaults  0  2' | sudo tee -a /etc/fstab
+   25  less /etc/fstab
+   26  sudo systemctl daemon-reload
+   27  sudo mount /mephi-web
+   28  df -h
+   29  echo "Task 4"
+   30  sudo systemctl list-unit-files | grep nginx
+   31  sudo systemctl status nginx.service
+   32  sudo systemctl enable --now nginx.service
+   33  sudo systemctl status nginx.service
+   34  sudo journalctl -xeu nginx.service
+   35  sudo journalctl -xeu nginx.service > journalctl.out
+   36  less journalctl.out
+   37  echo "Task 5"
+   38  mkdir /data
+   39  sudo mkdir /data
+   40  sudo mkdir /data/mephi-2026
+   41  useradd --help
+   42  sudo useradd -u 5501 user1
+   43  sudo useradd -u 5502 user2
+   44  sudo useradd -u 5503 user3
+   45  sudo chmod 770 /data/mephi-2026/
+   46  setfacl --help
+   47  setfacl -m u:user1:rwx,u:user2:rwx,u:user3:rwx /data/mephi-2026/
+   48  sudo setfacl -m u:user1:rwx,u:user2:rwx,u:user3:rwx /data/mephi-2026/
+   49  sudo setfacl -d u:user1:rwx,u:user2:rwx,u:user3:rwx /data/mephi-2026/
+   50  sudo setfacl -d -m u:user1:rwx,u:user2:rwx,u:user3:rwx /data/mephi-2026/
+   51  sudo groupadd -g 4444 curators
+   52  sudo useradd -G curators curator1
+   53  sudo useradd -G curators curator2
+   54  id curator1
+   55  sudo setfacl -m g:curators:rx /data/mephi-2026/
+   56  sudo setfacl -d -m g:curators:rx /data/mephi-2026/
+   57  setfacl -m o::--- /data/mephi-2026/
+   58  sudo setfacl -m o::--- /data/mephi-2026/
+   59  sudo setfacl -d -m o::--- /data/mephi-2026/
+   60  sudo getfacl /data/mephi-2026/
+   61  sudo -u user1 /bin/bash -c 'touch /data/mephi-2026/test_file.txt'
+   62  ls /data/mephi-2026/
+   63  sudo ls /data/mephi-2026/
+   64  sudo ls -l /data/mephi-2026/
+   65  sudo getfacl /data/mephi-2026/test_file.txt
+   66  ls -l /bin/
+   67  which tcpdump
+   68  ls -l /usr/sbin/tcpdump
+   69  ld /usr/sbin/tcpdump
+   70  ldd /usr/sbin/tcpdump
+   71  getcap /usr/sbin/tcpdump
+   72  sudo getcap /usr/sbin/tcpdump
+   73  sudo setcap cap_net_raw,cap_net_admin=ep /usr/sbin/tcpdump
+   74  sudo getcap /usr/sbin/tcpdump
+   75  sudo -u user1 tcpdump
+   76  sestatus
+   77  getenforce
+   78  sudo vim /etc/nginx/nginx.conf
+   79  sudo vi /etc/nginx/nginx.conf
+   80  sudo dnf install vim
+   81  sudo vim /etc/nginx/nginx.conf
+   82  #sudo sed /root/s/
+   83  grep root /etc/nginx/nginx.conf 
+   84  sudo sed |root|s|/usr/share/nginx/html|/mephi-web
+   85  sudo sed '|root|s|/usr/share/nginx/html|/mephi-web|'
+   86  sudo sed '|root|s|/usr/share/nginx/html|/mephi-web|' /etc/nginx/nginx.conf
+   87  sudo sed '\|root|s|/usr/share/nginx/html|/mephi-web|' /etc/nginx/nginx.conf
+   88  sudo sed -i '\|root|s|/usr/share/nginx/html|/mephi-web|' /etc/nginx/nginx.conf
+   89  grep root /etc/nginx/nginx.conf 
+   90  ls -l /mephi-web
+   91  echo "Task 6"
+   92  ls -l /etc/pam.d/
+   93  ls -l /etc/pam.d/login 
+   94  cat -l /etc/pam.d/login 
+   95  cat /etc/pam.d/login 
+   96  sed /pam_nologin/a/account    required     pam_access.so/ /etc/pam.d/login
+   97  sudo sed /pam_nologin/a/account    required     pam_access.so/ /etc/pam.d/login
+   98  sudo sed '/pam_nologin/a/account    required     pam_access.so/ /etc/pam.d/login'
+   99  sudo sed '/pam_nologin/a/account    required     pam_access.so/' /etc/pam.d/login
+  100  sudo sed '/pam_nologin/a\account    required     pam_access.so' /etc/pam.d/login
+  101  cat /etc/pam.d/login
+  102  sudo sed '/pam_nologin/a\account    required     pam_access.so' /etc/pam.d/login
+  103  sudo sed -i '/pam_nologin/a\account    required     pam_access.so' /etc/pam.d/login
+  104  cat /etc/pam.d/login
+  105  cat /etc/security/access.conf
+  106  sudo passwd curator1
+  107  sudo mkdir /home/curator1
+  108  ls -l /home/curator1/
+  109  sudo ls -l /home/curator1/
+  110  echo "-:(curators):LOCAL" | sudo tee -a /etc/security/access.conf
+  111  cat /etc/security/access.conf
+  112  sudo passwd user1
+  113  sudo chage -M 90 user1
+  114  sudo chage -M 90 user2
+  115  sudo chage -M 90 user3
+  116  sudo chage -M 90 curator1
+  117  sudo chage -M 90 curator2
+  118  sudo chage -l user1
+  119  cat /etc/security/pwquality.conf
+  120  echo "minlen = 12" >> /etc/security/pwquality.conf
+  121  sudo echo "minlen = 12" >> /etc/security/pwquality.conf
+  122  sudo echo "minlen = 12" | sudo tee -a /etc/security/pwquality.conf
+  123  tail /etc/security/pwquality.conf
+  124  su - user1
+  125  echo "Hello from Student: M265851" | sudo tee /mephi-web/index.html
+  126  curl http://localhost
+  127  sudo systemctl restart nginx
+  128  sudo systemctl status nginx
+  129  curl http://localhost | less
+  130  ls -Z /mephi-web/index.html 
+  131  ls -l /mephi-web/
+  132  ls -la /mephi-web/
+  133  ls -ld /mephi-web/
+  134  ls -ldZ /mephi-web/
+  135  sudo semanage fcontext -a -t https_sys_content_t "/mephi-web(/.*)?"
+  136  sudo dnf search policycoreutils
+  137  sudo dnf install policycoreutils
+  138  sudo dnf install policycoreutils-python-utils
+  139  sudo semanage fcontext -a -t httpd_sys_content_t "/mephi-web(/.*)?"
+  140  ls -ldZ /mephi-web/
+  141  ls -lZ /mephi-web/index.html 
+  142  sudo semanage fcontext -l | less
+  143  sudo semanage fcontext -l | grep mephi
+  144  sudo restorecon -Rv /mephi-web/
+  145  ls -lZ /mephi-web/index.html 
+  146  sudo systemctl restart nginx
+  147  sudo systemctl status nginx
+  148  curl http://localhost | less
+  149  curl http://localhost
+  150  history > ~/history.out
